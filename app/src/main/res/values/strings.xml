@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FV Offline Converter</string>
+    <string name="app_full_title">FV Offline Converter</string>
+    <string name="choose_video">Choose Video</string>
+    <string name="convert_preset_dsi">Nintendo DSi Widescreen (256x144, 16:9)</string>
+    <string name="convert_preset_ds">Nintendo DS Standard (256x192, 4:3)</string>
+    <string name="offline_badge">100% Offline &amp; Private</string>
+</resources>

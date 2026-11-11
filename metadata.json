@@ -1,0 +1,6 @@
+{
+  "name": "FV Offline Converter",
+  "description": "Offline video converter generating genuine FastVideoDS (.fv) files for Nintendo DS/DSi playback with bitstream validation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
